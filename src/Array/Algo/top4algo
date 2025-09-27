@@ -1,0 +1,67 @@
+# Amazon's Top 4 Array Algorithms 🎯
+
+## 1. Two Pointers Technique ⭐⭐⭐⭐⭐
+**Frequency**: Very High (30% of array problems)
+**When to use**: Sorted arrays, finding pairs, removing duplicates
+**Time**: O(n), **Space**: O(1)
+
+**Common Problems**:
+- Two Sum (sorted array)
+- Remove duplicates from sorted array
+- Container with most water
+- Trapping rainwater
+
+---
+
+## 2. Sliding Window ⭐⭐⭐⭐
+**Frequency**: High (25% of array/string problems)
+**When to use**: Subarray/substring problems with conditions
+**Time**: O(n), **Space**: O(1) or O(k)
+
+**Common Problems**:
+- Maximum sum subarray of size K
+- Longest substring without repeating characters
+- Minimum window substring
+- Find all anagrams in a string
+
+---
+
+## 3. Prefix Sum ⭐⭐⭐⭐
+**Frequency**: Medium-High (20% of array problems)
+**When to use**: Range sum queries, subarray sum problems
+**Time**: O(n) preprocessing, O(1) queries, **Space**: O(n)
+
+**Common Problems**:
+- Range sum query
+- Subarray sum equals K
+- Maximum subarray sum (Kadane's algorithm)
+- Product of array except self
+
+---
+
+## 4. Array Rotation/Manipulation ⭐⭐⭐
+**Frequency**: Medium (15% of array problems)
+**When to use**: Rotating arrays, reversing, cyclic operations
+**Time**: O(n), **Space**: O(1) for optimal solutions
+
+**Common Problems**:
+- Rotate array by K positions
+- Reverse array in groups
+- Search in rotated sorted array
+- Merge sorted arrays
+
+---
+
+## 🎯 Learning Order for Amazon Success:
+
+1. **Start with Two Pointers** (easiest to understand, highest frequency)
+2. **Then Sliding Window** (builds on two pointers concept)
+3. **Then Prefix Sum** (important for optimization)
+4. **Finally Array Rotation** (specific patterns to memorize)
+
+## 💡 Amazon Interview Tips:
+
+- Always ask: "Is the array sorted?" before choosing approach
+- Mention time/space complexity after explaining approach
+- Start with brute force, then optimize using these techniques
+- Practice explaining your logic step by step

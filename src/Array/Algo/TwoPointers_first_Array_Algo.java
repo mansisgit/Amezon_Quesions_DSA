@@ -1,4 +1,4 @@
-package Array;
+package Array.Algo;
 
 public class TwoPointers_first_Array_Algo {
 }
