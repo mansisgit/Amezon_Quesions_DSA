@@ -1,4 +1,4 @@
-# Hi there, I'm mansisgit 👋
+# Hi there, I'm mansi 👋
 ![Waving](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 <!-- Animated typing title (replace the lines=... with your preferred taglines) -->
@@ -46,7 +46,7 @@ Streak & activity
 </p>
 
 Get in touch
-- ✉️ Email: [your-email@example.com](mailto:mansichate89@gmail.com)
+- ✉️ Email: [mansichate89@gmail.com](mailto:mansichate89@gmail.com)
 - 🌐 Website: https://your-website.example
-- 🐦 Twitter: [@yourhandle](https://twitter.com/mansistwt)
-- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/mansichate)
+- 🐦 Twitter: [@mansistwt](https://twitter.com/mansistwt)
+- 💼 LinkedIn: [Mansi Chate](https://www.linkedin.com/in/mansichate)
